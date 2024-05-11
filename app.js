@@ -108,7 +108,20 @@
 
 // 7 vazifa
 
+// let b = [];
+// function remove(num) {
+//   for (let i = 0; i < num.length; i++) {
+//     if (num[i] !== num[i + 1]) {
+//       b.push(num[i]);
+//     } else {
+//       i++;
+//     }
+//   }
+// }
 
+// let a = [1, 2, 3, 4, 5, 5, 6, 7, 8];
+// const result = remove(a);
+// console.log(b);
 
 // 8 vazifa
 
